@@ -1,16 +1,32 @@
-### Hi there 👋
+ <h1>Welcome Stranger!</h1>
 
-<!--
-**jonathanrib3/jonathanrib3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - DevOps intern
+  - Studying Back End and DevOps related subjects
+  - Actually studying Computer Science in UAM (almost finishing)
+  - Heavy music, anime and games enthusiast
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonathanrib3&hide=stars&theme=radical&show_icons=true&include_all_commits=true"/> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrib3&theme=radical&layout=compact"/>
+</div>
 
-Here are some ideas to get you started:
+<div style=display: "inline_block"><br>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Contact
+ 
+<div style=display: "inline_block">
+  <a href="mailto:jonathanrib.3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jonathan-ribeiro-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+    
+![Snake animation](https://github.com/jonathanrib3)
