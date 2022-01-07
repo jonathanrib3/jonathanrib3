@@ -6,8 +6,8 @@
   - Actually studying Computer Science in UAM (almost finishing)
   - Heavy music, anime and games enthusiast
 <div style=display: "inline_block">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonathanrib3&hide=stars&theme=radical&show_icons=true&include_all_commits=true"/> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrib3&theme=radical&layout=compact"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanrib3&hide=stars&theme=radical&show_icons=true&include_all_commits=true"/> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrib3&theme=radical&layout=compact"/>
 </div>
 
 <div style=display: "inline_block"><br>
