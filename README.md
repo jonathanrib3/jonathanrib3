@@ -1,7 +1,7 @@
  <h1>Welcome Stranger!</h1>
  
  **About Me:**
-  - DevOps intern
+  - Tech Risk Trainee
   - Studying Back End and DevOps related subjects
   - Actually studying Computer Science in UAM (almost finishing)
   - Heavy music, anime and games lover
