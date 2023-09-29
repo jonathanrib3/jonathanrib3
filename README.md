@@ -1,9 +1,9 @@
  <h1>Welcome Stranger!</h1>
  
  **About Me:**
-  - Tech Risk Trainee
+  - Trainee at Codeminer42
   - Studying Back End and DevOps related subjects
-  - Actually studying Computer Science in UAM (almost finishing)
+  - Computer Science bachelor by UAM
   - Heavy music, anime and games lover
 <div style=display: "inline_block">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonathanrib3&hide=stars&theme=radical&show_icons=true&include_all_commits=true"/> 
