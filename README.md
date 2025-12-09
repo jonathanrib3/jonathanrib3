@@ -1,7 +1,6 @@
  <h1>Welcome Stranger!</h1>
  
  **About Me:**
-  - Trainee at Codeminer42
   - Studying Back End and DevOps related subjects
   - Computer Science graduate by UAM
   - Heavy music, anime and games lover
