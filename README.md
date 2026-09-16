@@ -1,20 +1,9 @@
- <h1>Welcome Stranger!</h1>
- 
+ <h1>I CAN'T TAKE THE KALI YUGA ANYMORE!!</h1>
+ <h2>One day i'll update this profile, maybe, idk</h2>
  **About Me:**
   - Studying Back End and DevOps related subjects
   - Computer Science graduate by UAM
   - Heavy music, anime and games lover
-
-<div style=display: "inline_block"><br>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-</div>
 
 ## Contact
  
